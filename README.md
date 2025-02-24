@@ -83,14 +83,14 @@ The **Superstore Sales Data Analysis** project focuses on extracting valuable in
 
 ## 📅 Project Timeline
 
-| Phase                          | Duration  | Start Date | End Date  |
-|--------------------------------|-----------|------------|-----------|
-| Data Collection & Exploration  | 2 weeks   | 01-Feb-25  | 14-Feb-25 |
-| Data Cleaning & Preprocessing  | 2 weeks   | 15-Feb-25  | 28-Feb-25 |
-| EDA & Visualization            | 2 weeks   | 01-Mar-25  | 14-Mar-25 |
-| Advanced Analysis & Modeling   | 2 weeks   | 15-Mar-25  | 28-Mar-25 |
-| Report Writing & Dashboard Dev | 2 weeks   | 29-Mar-25  | 11-Apr-25 |
-| Final Presentation & Recommendations | 2 weeks | 12-Apr-25  | 25-Apr-25 |
+| **Phase**   | **Task Description**                        | **Duration** | **Start Date** | **End Date**  |
+|------------|--------------------------------------------|-------------|---------------|--------------|
+| **Week 1-2**  | Data Collection & Initial Exploration    | 2 weeks     | 01-Feb-25     | 14-Feb-25    |
+| **Week 3-4**  | Data Cleaning & Preprocessing           | 2 weeks     | 15-Feb-25     | 28-Feb-25    |
+| **Week 5-6**  | Exploratory Data Analysis & Visualization | 2 weeks     | 01-Mar-25     | 14-Mar-25    |
+| **Week 7-8**  | Advanced Analysis & Modeling            | 2 weeks     | 15-Mar-25     | 28-Mar-25    |
+| **Week 9-10** | Report Writing & Dashboard Development  | 4 days  | 29-Mar-25     | 01-Apr-25 |
+
 
 ---
 
@@ -177,7 +177,7 @@ The **Superstore Sales Data Analysis** project focuses on extracting valuable in
 For any inquiries, feel free to reach out:
 
 👤 **Radwa El-Harty**  
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+📧 Email: [relharty88@gmail.com](mailto:relharty88@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/radwael-harty](https://linkedin.com/in/radwael-harty)  
 
 ---
