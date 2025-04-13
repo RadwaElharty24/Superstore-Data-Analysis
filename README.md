@@ -164,12 +164,23 @@ The **Superstore Sales Data Analysis** project focuses on extracting valuable in
 
 ---
 
-## 📌 Dashboard
-![Overview Dashboard](Screenshot 2025-04-14 011601.png)
-![Category Dashboard](Screenshot 2025-04-14 011620.png)
-![Region Dashboard](Screenshot 2025-04-14 011635.png)
-![Customer Dashboard](Screenshot 2025-04-14 011708.png)
-![Shipping Dashboard](Screenshot 2025-04-14 011653.png)
+## 📊 Dashboards
+
+### 🔹 Overview Dashboard
+![Overview Dashboard](Screenshot%202025-04-14%20011601.png)
+
+### 🔹 Category Dashboard
+![Category Dashboard](Screenshot%202025-04-14%20011620.png)
+
+### 🔹 Region Dashboard
+![Region Dashboard](Screenshot%202025-04-14%20011635.png)
+
+### 🔹 Customer Dashboard
+![Customer Dashboard](Screenshot%202025-04-14%20011708.png)
+
+### 🔹 Shipping Dashboard
+![Shipping Dashboard](Screenshot%202025-04-14%20011653.png)
+
 ---
 
 ## 📌 Future Enhancements
