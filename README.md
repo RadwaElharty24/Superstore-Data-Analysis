@@ -1,8 +1,7 @@
 # 📊 Superstore Sales Data Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg?style=flat&logo=python)  
-![Jupyter Notebook](https://img.shields.io/badge/Tool-Jupyter%20Notebook-orange?style=flat&logo=jupyter)  
-![Power BI](https://img.shields.io/badge/Visualization-Power%20BI-yellow?style=flat&logo=powerbi)  
+![Jupyter Notebook](https://img.shields.io/badge/Tool-Jupyter%20Notebook-orange?style=flat&logo=jupyter)   
 ![Tableau](https://img.shields.io/badge/Visualization-Tableau-blue?style=flat&logo=tableau)  
 
 ## 📌 Project Overview
