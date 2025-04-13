@@ -164,6 +164,14 @@ The **Superstore Sales Data Analysis** project focuses on extracting valuable in
 
 ---
 
+## 📌 Dashboard
+![Overview Dashboard](Screenshot 2025-04-14 011601.png)
+![Category Dashboard](Screenshot 2025-04-14 011620.png)
+![Region Dashboard](Screenshot 2025-04-14 011635.png)
+![Customer Dashboard](Screenshot 2025-04-14 011708.png)
+![Shipping Dashboard](Screenshot 2025-04-14 011653.png)
+---
+
 ## 📌 Future Enhancements
 
 🔹 Implement **predictive modeling** to forecast sales trends.  
